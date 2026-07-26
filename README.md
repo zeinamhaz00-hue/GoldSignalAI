@@ -1,2 +1,3 @@
 # GoldSignalAI
 تحليل ذهب
+8811459276:AAEgGIpdeeduOQqLTyEALgFkqTXEZW5yW3w
