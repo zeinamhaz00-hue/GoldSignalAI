@@ -1,0 +1,2 @@
+# GoldSignalAI
+تحليل ذهب
