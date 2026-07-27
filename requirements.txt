@@ -1,3 +1,5 @@
-# GoldSignalAI
-
-8811459276:AAEgGIpdeeduOQqLTyEALgFkqTXEZW5yW3w
+python-telegram-bot
+requests
+openai
+pandas
+numpy
